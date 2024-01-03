@@ -67,7 +67,7 @@ namespace IterationStatements
                 // AND as long as i is greater than or equal to 0
                 // Decrement i by 1
 
-            for (int i = 199; i = 0; i--) //start for loop here
+            for (int i = 199; i >= 0; i--) //start for loop here
             {
                 // place numbers[i] inside of the Console.WriteLine() method
                 Console.WriteLine($"{numbers[i]} ");
